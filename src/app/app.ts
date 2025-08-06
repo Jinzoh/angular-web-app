@@ -11,3 +11,4 @@ import { Todos } from "./components/todos/todos";
 export class App {
   protected readonly title = signal('first-angular-app');
 }
+
